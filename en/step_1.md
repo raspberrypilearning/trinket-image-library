@@ -22,7 +22,7 @@ line_highlights: 35
     <!-- The main content for the web page goes between the main tags -->
     <main>
       Lorem ipsum dolor sit amet. 
-      <img src="beetle.jpg">
+      <img src="beetle.jpg" alt="Description of the image.">
        
     </main>
 
