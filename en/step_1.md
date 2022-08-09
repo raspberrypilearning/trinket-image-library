@@ -8,7 +8,7 @@ Scroll through the image library and make a note of the file name of an image yo
 
 ![The image library with beetle.jpg file shown.](images/image-gallery.png)
 
-Add your image to the `<main></main>` in `index.html` so that it appears on your webpage:
+Add your image to the `<main></main>` in `index.html` so that it appears on your webpage.
 
 --- code ---
 ---
@@ -19,7 +19,7 @@ line_number_start: 32
 line_highlights: 35
 ---
 
-    <!-- The main content for the web page goes between the main tags -->
+    <!-- The main content for the webpage goes between the main tags -->
     <main>
       Lorem ipsum dolor sit amet. 
       <img src="beetle.jpg" alt="Description of the image.">
