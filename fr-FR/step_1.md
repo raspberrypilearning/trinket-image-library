@@ -1,14 +1,14 @@
-The starter file has a library of useful images.
+Le fichier de démarrage contient une bibliothèque d'images utiles.
 
-Click on the 'View and Add images' icon:
+Clique sur l'icône « View and Add Images » :
 
-![An icon shaped like a piece of paper with top right corner folded over and a mountain scene on the paper.](images/view-add-images.png)
+![Une icône ayant la forme d'une feuille de papier dont le coin supérieur droit est replié et sur laquelle figure une scène de montagne.](images/view-add-images.png)
 
-Scroll through the image library and make a note of the file name of an image you would like to use in your web page:
+Fais défiler la bibliothèque d'images et note le nom de fichier d'une image que tu aimerais utiliser dans ta page web :
 
-![The image library with beetle.jpg file shown.](images/image-gallery.png)
+![La bibliothèque d'images avec le fichier beetle.jpg affiché.](images/image-gallery.png)
 
-Add your image to the `<main></main>` in `index.html` so that it appears on your web page:
+Ajoute ton image au `<main></main>` dans `index.html` pour qu'elle apparaisse sur ta page web :
 
 ## --- code ---
 
@@ -20,7 +20,7 @@ line_highlights: 35
 --------------------------------------------------------
 
 ```
-<!-- The main content for the web page goes between the main tags -->
+<!-- Le contenu principal de la page web se trouve entre les balises principales -->
 <main>
   Lorem ipsum dolor sit amet. 
   <img src="beetle.jpg" alt="Description of the image.">
