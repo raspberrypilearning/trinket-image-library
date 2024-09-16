@@ -1,14 +1,14 @@
 Het startbestand bevat een bibliotheek met nuttige afbeeldingen.
 
-Klik op het icoon "View and Add images":
+Click on the 'View and Add images' icon.
 
-![Een pictogram in de vorm van een stuk papier met de rechterbovenhoek omgevouwen en een bergtafereel op het papier.](images/view-add-images.png)
+![An icon shaped like a piece of paper with top-right corner folded over and a mountain scene on the paper.](images/view-add-images.png)
 
-Scroll door de afbeeldingsbibliotheek en noteer de bestandsnaam van een afbeelding die je wilt gebruiken op jouw webpagina:
+Scroll through the image library and make a note of the file name of an image you would like to use in your webpage.
 
 ![De afbeeldingsbibliotheek met het beetle.jpg-bestand getoond.](images/image-gallery.png)
 
-Voeg je afbeelding toe aan de `<main></main>` in `index.html` zodat deze op je webpagina verschijnt:
+Add your image to the `<main></main>` in `index.html` so that it appears on your webpage.
 
 ## --- code ---
 
@@ -20,7 +20,7 @@ line_highlights: 35
 --------------------------------------------------------
 
 ```
-<!-- De belangrijkste inhoud van de webpagina gaat tussen de hoofdtags -->
+<!-- The main content for the webpage goes between the main tags -->
 <main>
   Lorem ipsum dolor sit amet. 
   <img src="beetle.jpg" alt="Description of the image.">
